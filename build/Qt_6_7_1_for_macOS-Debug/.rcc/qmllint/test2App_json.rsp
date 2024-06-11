@@ -1,0 +1,16 @@
+--bare
+-I
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug
+-I
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/qml
+-I
+/Users/quanvu/Qt/6.7.1/macos/./qml
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/.qt/rcc/configuration.qrc
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/.qt/rcc/qmake_Main.qrc
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/.qt/rcc/test2App_raw_qml_0.qrc
+/Users/quanvu/test2/main.qml
+--json
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/test2App_qmllint.json

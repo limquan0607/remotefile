@@ -1,0 +1,17 @@
+--bare
+-I
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/qml
+-I
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/qml
+-I
+/Users/quanvu/Qt/6.7.1/macos/./qml
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/imports/test2/.qt/rcc/qmake_test2.qrc
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/imports/test2/.qt/rcc/test2_raw_qml_0.qrc
+/Users/quanvu/test2/imports/test2/Constants.qml
+/Users/quanvu/test2/imports/test2/DirectoryFontLoader.qml
+/Users/quanvu/test2/imports/test2/EventListModel.qml
+/Users/quanvu/test2/imports/test2/EventListSimulator.qml
+--json
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/test2_qmllint.json

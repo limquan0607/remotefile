@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/QtQuick/Studio/Utils">/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/qml/QtQuick/Studio/Utils</file>
+
+  </qresource>
+</RCC>

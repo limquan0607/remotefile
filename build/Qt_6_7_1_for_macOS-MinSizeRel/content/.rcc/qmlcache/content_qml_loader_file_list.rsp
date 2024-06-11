@@ -1,0 +1,6 @@
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/content/.qt/rcc/qmake_content.qrc
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/content/.qt/rcc/content_raw_qml_0.qrc
+/qt/qml/content/App.qml
+/qt/qml/content/Screen01.ui.qml

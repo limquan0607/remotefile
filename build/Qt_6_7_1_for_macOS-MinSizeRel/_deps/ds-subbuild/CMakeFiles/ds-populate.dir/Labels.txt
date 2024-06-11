@@ -1,0 +1,14 @@
+# Target labels
+ ds-populate
+# Source files and their labels
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/CMakeFiles/ds-populate
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/CMakeFiles/ds-populate.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/CMakeFiles/ds-populate-complete.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test.rule
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update.rule

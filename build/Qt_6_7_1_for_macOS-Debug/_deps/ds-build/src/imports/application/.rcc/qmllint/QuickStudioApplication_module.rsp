@@ -1,0 +1,10 @@
+-I
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/qml
+-I
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/qml
+-I
+/Users/quanvu/Qt/6.7.1/macos/./qml
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/_deps/ds-build/src/imports/application/.qt/rcc/qmake_QtQuick_Studio_Application.qrc
+--module
+QtQuick.Studio.Application

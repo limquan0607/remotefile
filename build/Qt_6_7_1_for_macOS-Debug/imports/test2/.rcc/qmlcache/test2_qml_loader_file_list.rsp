@@ -1,0 +1,8 @@
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/imports/test2/.qt/rcc/qmake_test2.qrc
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/imports/test2/.qt/rcc/test2_raw_qml_0.qrc
+/qt/qml/test2/Constants.qml
+/qt/qml/test2/DirectoryFontLoader.qml
+/qt/qml/test2/EventListModel.qml
+/qt/qml/test2/EventListSimulator.qml

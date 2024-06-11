@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Main">/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-Debug/qml/Main</file>
+
+  </qresource>
+</RCC>

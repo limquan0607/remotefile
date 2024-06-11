@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Studio/MultiText">
+    <file alias="qmldir">/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/qml/QtQuick/Studio/MultiText/qmldir</file>
+  </qresource>
+</RCC>
+

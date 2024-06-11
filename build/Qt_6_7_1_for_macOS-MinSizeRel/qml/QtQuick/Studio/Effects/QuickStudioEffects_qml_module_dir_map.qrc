@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt-project.org/imports/QtQuick/Studio/Effects">/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/qml/QtQuick/Studio/Effects</file>
+
+  </qresource>
+</RCC>

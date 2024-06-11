@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/test2/">
+    <file alias="Constants.qml">/Users/quanvu/test2/imports/test2/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/Users/quanvu/test2/imports/test2/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/Users/quanvu/test2/imports/test2/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/Users/quanvu/test2/imports/test2/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

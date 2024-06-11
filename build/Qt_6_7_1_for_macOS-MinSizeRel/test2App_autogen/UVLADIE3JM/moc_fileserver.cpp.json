@@ -1,0 +1,24 @@
+{
+    "classes": [
+        {
+            "className": "FileServer",
+            "object": true,
+            "qualifiedClassName": "FileServer",
+            "slots": [
+                {
+                    "access": "private",
+                    "name": "processPendingDatagrams",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "fileserver.h",
+    "outputRevision": 68
+}

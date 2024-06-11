@@ -1,0 +1,2 @@
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/test2App_autogen/include/../UVLADIE3JM/moc_fileclient.cpp.json
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/test2App_autogen/include/../UVLADIE3JM/moc_fileserver.cpp.json

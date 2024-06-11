@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qtquickcontrols2.conf">/Users/quanvu/test2/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>
+

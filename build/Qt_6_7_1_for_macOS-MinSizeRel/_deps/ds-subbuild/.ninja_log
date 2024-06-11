@@ -1,0 +1,21 @@
+# ninja log v5
+0	13	1718095266838115275	ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	ac77b2bb001c9929
+0	13	1718095266838115275	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	ac77b2bb001c9929
+13	3283	1718095270108352997	ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	f01f0b61756cae3b
+13	3283	1718095270108352997	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	f01f0b61756cae3b
+3284	4541	0	ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	ec3ed8f8a61903aa
+3284	4541	0	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	ec3ed8f8a61903aa
+4541	4555	1718095271380228457	ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	c378abc85dd32893
+4541	4555	1718095271380228457	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	c378abc85dd32893
+4555	4569	1718095271393979961	ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	e607406314c128c1
+4555	4569	1718095271393979961	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	e607406314c128c1
+4569	4584	1718095271408474304	ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	350132bc5c529cf5
+4569	4584	1718095271408474304	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	350132bc5c529cf5
+4584	4596	1718095271421243089	ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	e63574ebfea11e34
+4584	4596	1718095271421243089	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	e63574ebfea11e34
+4596	4609	1718095271434151001	ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	f1336c042f2e7eae
+4596	4609	1718095271434151001	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	f1336c042f2e7eae
+4609	4628	1718095271453344305	CMakeFiles/ds-populate-complete	2c3e6ebb0f3fa6f0
+4609	4628	1718095271453344305	ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	2c3e6ebb0f3fa6f0
+4609	4628	1718095271453344305	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/CMakeFiles/ds-populate-complete	2c3e6ebb0f3fa6f0
+4609	4628	1718095271453344305	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	2c3e6ebb0f3fa6f0

@@ -1,0 +1,7 @@
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/.qt/rcc/configuration.qrc
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/.qt/rcc/qmake_Main.qrc
+--resource
+/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/.qt/rcc/test2App_raw_qml_0.qrc
+/qt/qml/Main/main.qml
