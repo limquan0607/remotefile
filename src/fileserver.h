@@ -3,6 +3,7 @@
 
 #include <QObject>
 #include <QUdpSocket>
+#include <QDir>
 
 class FileServer : public QObject
 {
@@ -22,6 +23,9 @@ private:
     bool renameFile(const QString &oldPath, const QString &newPath);
     QString readFile(const QString &path);
     bool writeFile(const QString &path, const QString &content);
+    bool uploadFile(const QString &path, const QString &content);
+    bool listFiles();
+    QDir curDir;
 };
 
 #endif // FILESERVER_H

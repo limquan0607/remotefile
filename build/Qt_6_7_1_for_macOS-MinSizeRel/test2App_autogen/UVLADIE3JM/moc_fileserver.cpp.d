@@ -82,10 +82,12 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QDir \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
@@ -100,6 +102,7 @@
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qcalendar.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qchar.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qcompare.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h \
@@ -113,8 +116,13 @@
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdir.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfile.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfileinfo.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
@@ -131,6 +139,7 @@
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
@@ -178,6 +187,7 @@
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtimezone.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
@@ -189,6 +199,7 @@
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \

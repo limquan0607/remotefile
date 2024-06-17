@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/test2App_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/quanvu/test2",
+	"CMAKE_SOURCE_DIR" : "/Users/quanvu/test2",
+	"INCLUDE_DIR" : "/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/test2App_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/quanvu/test2/icons/folder_closed.svg",
+		"/Users/quanvu/test2/icons/generic_file.svg"
+	],
+	"LOCK_FILE" : "/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/CMakeFiles/test2App_autogen.dir/AutoRcc_icons_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "icons" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_icons.cpp",
+	"RCC_EXECUTABLE" : "/Users/quanvu/Qt/6.7.1/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/CMakeFiles/test2App_autogen.dir/AutoRcc_icons_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/quanvu/test2/icons.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/folder_closed.svg</file>
+        <file>icons/generic_file.svg</file>
+    </qresource>
+</RCC>

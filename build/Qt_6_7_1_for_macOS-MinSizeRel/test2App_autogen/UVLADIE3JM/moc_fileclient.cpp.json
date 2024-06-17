@@ -11,7 +11,7 @@
                             "type": "QString"
                         },
                         {
-                            "name": "path",
+                            "name": "name",
                             "type": "QString"
                         },
                         {
@@ -34,7 +34,7 @@
                             "type": "QString"
                         },
                         {
-                            "name": "path",
+                            "name": "name",
                             "type": "QString"
                         },
                         {
@@ -54,12 +54,55 @@
                             "type": "QString"
                         },
                         {
-                            "name": "path",
+                            "name": "name",
                             "type": "QString"
                         }
                     ],
                     "isCloned": true,
                     "name": "sendRequest",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "command",
+                            "type": "QString"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "sendRequest",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "requestFileList",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "fileName",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "uploadFile",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "location",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "downloadFile",
                     "returnType": "void"
                 }
             ],
@@ -75,6 +118,32 @@
                         }
                     ],
                     "name": "responseReceived",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "files",
+                            "type": "QStringList"
+                        },
+                        {
+                            "name": "isDir",
+                            "type": "QList<bool>"
+                        }
+                    ],
+                    "name": "fileListReceived",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "error",
                     "returnType": "void"
                 }
             ],

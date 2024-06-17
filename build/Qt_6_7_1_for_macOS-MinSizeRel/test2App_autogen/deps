@@ -81,6 +81,7 @@ test2App_autogen/timestamp: \
 	/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/signal.h \
 	/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/stdio.h \
 	/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h \
+	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QDir \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QJsonDocument \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QJsonObject \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
@@ -120,8 +121,12 @@ test2App_autogen/timestamp: \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
+	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdir.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
+	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfile.h \
+	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
+	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfileinfo.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
@@ -190,6 +195,7 @@ test2App_autogen/timestamp: \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
+	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtimezone.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
 	/Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
@@ -665,6 +671,7 @@ test2App_autogen/timestamp: \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargets-relwithdebinfo.cmake \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargets.cmake \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlAdditionalTargetInfo.cmake \
+	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlBuildInternals.cmake \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfigExtras.cmake \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfigVersion.cmake \
@@ -724,77 +731,23 @@ test2App_autogen/timestamp: \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets-relwithdebinfo.cmake \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets.cmake \
 	/Users/quanvu/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsVersionlessTargets.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCXXInformation.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeGenericSystem.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeNinjaFindMake.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeSystem.cmake.in \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckLibraryExists.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/AppleClang-CXX.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Clang.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/GNU.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FetchContent.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in \
@@ -807,12 +760,10 @@ test2App_autogen/timestamp: \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/MacroAddFileDependencies.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Apple-AppleClang-CXX.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Apple-Clang-CXX.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake \
-	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Darwin-Determine-CXX.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Darwin.cmake \
 	/Users/quanvu/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/UnixPaths.cmake \
@@ -822,9 +773,12 @@ test2App_autogen/timestamp: \
 	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
 	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/CMakeFiles/3.27.7/CMakeSystem.cmake \
 	/Users/quanvu/test2/build/Qt_6_7_1_for_macOS-MinSizeRel/test2App_autogen/moc_predefs.h \
+	/Users/quanvu/test2/icons.qrc \
 	/Users/quanvu/test2/insight \
 	/Users/quanvu/test2/qmlcomponents \
 	/Users/quanvu/test2/qmlmodules \
+	/Users/quanvu/test2/src/datagram.cpp \
+	/Users/quanvu/test2/src/datagram.h \
 	/Users/quanvu/test2/src/fileclient.cpp \
 	/Users/quanvu/test2/src/fileclient.h \
 	/Users/quanvu/test2/src/fileserver.cpp \

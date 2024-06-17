@@ -82,6 +82,7 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QDir \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QJsonDocument \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QJsonObject \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
@@ -121,8 +122,12 @@
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qdir.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfile.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfileinfo.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
@@ -191,6 +196,7 @@
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
+  /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtimezone.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
   /Users/quanvu/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \

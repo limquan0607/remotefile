@@ -6,6 +6,7 @@ option(BUILD_QDS_COMPONENTS "Build design studio components" ON)
 project(test2App LANGUAGES CXX)
 
 set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
 
 find_package(Qt6 6.2 REQUIRED COMPONENTS Core Gui Qml Quick)
 
@@ -16,6 +17,11 @@ endif()
 qt_add_executable(test2App src/main.cpp
     src/fileserver.h src/fileserver.cpp
     src/fileclient.h src/fileclient.cpp
+    icons.qrc
+    LoginScreen.qml
+    src/datagram.h src/datagram.cpp
+
+
 )
 
 qt_add_resources(test2App "configuration"
